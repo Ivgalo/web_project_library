@@ -124,8 +124,7 @@
 .staff__cards {
   max-width: 760px;
   margin: 68px auto 0;
-  padding: left;
-  list-style-type: none;
+    list-style-type: none;
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
